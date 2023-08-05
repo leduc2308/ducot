@@ -2,7 +2,7 @@
 	"name": "fcc-learn-npm-package-json",
 	"author": "foobar",
 	"dependencies": {
-		"express": "^4.14.0"
+		"@freecodecamp/example": "1.1.0"
 	},
 	"main": "server.js",
 	"scripts": {
@@ -16,8 +16,10 @@
 		"url": "https://idontknow/todo.git"
 	},
 	"description": "A project that does something awesome hello",
-	"keywords": ["freecodecamp"],
-	"license": "MIT" ,
-	"version":"1.0.0",
-	"test":"ok"
+	"keywords": [
+		"freecodecamp"
+	],
+	"license": "MIT",
+	"version": "1.0.0",
+	"test": "ok"
 }
