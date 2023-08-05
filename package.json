@@ -17,5 +17,6 @@
 	},
 	"description": "A project that does something awesome hello",
 	"keywords": ["freecodecamp"],
-	"license": "MIT" 
+	"license": "MIT" ,
+	"version":"1.0.0"
 }
